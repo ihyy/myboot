@@ -1,0 +1,20 @@
+maven:打包，编译项目，管理jar包,生成工程的结构 的工具
+
+maven-archetype-webapp:
+
+pom.xml：管理jar包
+
+src
+   main
+       java : .java
+       resources : .xml
+       webapp : .jsp
+
+   test
+
+target
+
+mapper
+application.properties
+
+
